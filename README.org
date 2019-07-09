@@ -2,6 +2,10 @@
 
 Автор логотипа: [[http://humanimalien.ru/][Олег Пащенко]]
 
+* Исходники
+
+Все исходники в формате [[https://en.wikipedia.org/wiki/Scalable_Vector_Graphics][svg]] находятся в [[./svg]], внезапно.
+
 * Варианты
 
 ** Основной логотип
