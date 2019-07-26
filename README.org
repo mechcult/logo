@@ -1,7 +1,7 @@
 * Логотип секты кнопкопоклонников
 
 - Автор логотипа: [[http://humanimalien.ru/][Олег Пащенко]]
-- Допилка напильником: [[https://www.behance.net/alex_zh][AlexBarb]]
+- Допилка напильником: [[https://www.behance.net/alex_zh][alexbarb]]
 
 * Исходники
 
